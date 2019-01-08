@@ -1,0 +1,25 @@
+{
+    "name": "react-native-avataaars",
+    "keywords": ["react", "native", "react-native", "avataaars", "react-native-avataaars", "avatar"],
+    "homepage": "https://github.com/tom555my/react-native-avataaars",
+    "bugs": "https://github.com/tom555my/react-native-avataaars/issues",
+    "version": "1.0.0",
+    "description": "React Native component for Avataaars",
+    "main": "dist/index.js",
+    "repository": {
+        "url": "https://github.com/tom555my/react-native-avataaars",
+        "type": "git"
+    },
+    "author": "Tommy Chung <tom555my@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^16.7.18",
+        "@types/react-dom": "^16.0.11",
+        "@types/react-native": "^0.57.26",
+        "typescript": "^3.2.2"
+    },
+    "dependencies": {
+        "avataaars": "^1.2.1",
+        "react-native-remote-svg": "^1.4.0"
+    }
+}
