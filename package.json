@@ -1,9 +1,16 @@
 {
     "name": "react-native-avataaars",
-    "keywords": ["react", "native", "react-native", "avataaars", "react-native-avataaars", "avatar"],
+    "keywords": [
+        "react",
+        "native",
+        "react-native",
+        "avataaars",
+        "react-native-avataaars",
+        "avatar"
+    ],
     "homepage": "https://github.com/tom555my/react-native-avataaars",
     "bugs": "https://github.com/tom555my/react-native-avataaars/issues",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "React Native component for Avataaars",
     "main": "dist/index.js",
     "repository": {
