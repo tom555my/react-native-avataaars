@@ -2,9 +2,9 @@
 
 A thin wrapper on top of [React component for Avataaars](https://github.com/fangpenlin/avataaars), developed by [Fang-Pen Lin](https://twitter.com/fangpenlin), which is the React component for [Avataaars](https://avataaars.com/). This package allow you to use [React component for Avataaars](https://github.com/fangpenlin/avataaars) in React Native!
 
-<div style="text-align:center">
-    <img src="./avataaars.png" alt="avataars" width="200"/>
-</div>
+<p align="center">
+    <img src="./avataaars.png" alt="avataars" width="250"/>
+</p>
 
 ## Features
 
