@@ -27,6 +27,6 @@
     },
     "dependencies": {
         "avataaars": "^1.2.1",
-        "react-native-remote-svg": "^2.0.6"
+        "react-native-remote-svg": "Ingibjorg/react-native-remote-svg#issue-53-migrate-from-deprecated-uiwebview"
     }
 }
