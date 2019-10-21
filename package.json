@@ -27,6 +27,6 @@
     },
     "dependencies": {
         "avataaars": "^1.2.1",
-        "react-native-remote-svg": "^1.4.0"
+        "react-native-remote-svg": "^2.0.6"
     }
 }
